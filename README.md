@@ -1,9 +1,9 @@
 # Analysis & Design of Algorithm Lab Work
--  To implement insertion sort, merge sort and bubble sort.
+-  ~To implement insertion sort, merge sort and bubble sort.~
 -  To implement the maximum sum of the subarray problem.
--  To implement a heap sort program.
+-  ~To implement a heap sort program.~
 -  To implement radix sort and bucket sort
--  To implement the Fibonacci sequence, linear search and binary search
+-  ~To implement the Fibonacci sequence, linear search and binary search~
 -  To implement local minima in an array and local minima in a grid problem
 -  To implement matrix multiplication and GCD
 -  To implement range minima problem.
