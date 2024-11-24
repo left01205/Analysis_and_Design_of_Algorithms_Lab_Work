@@ -5,7 +5,7 @@
 -  ~To implement radix sort and bucket sort~
 -  ~To implement the Fibonacci sequence, linear search and binary search~
 -  To implement local minima in an array and local minima in a grid problem
--  To implement matrix multiplication and GCD
+-  ~To implement matrix multiplication and GCD~
 -  To implement range minima problem.
 -  ~To implement binary tree and binary search tree.~
 -  To implement the shortest path in the grid and majority element problem.
